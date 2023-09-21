@@ -1,0 +1,22 @@
+.crypto{
+    display: flex;
+    justify-content: space-between;
+    border: none;
+    border-radius: 12px;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-top: 15px;
+    background-color: #2e3241;
+    font-size: 25px;
+    color: white;
+    font-weight: 900;
+    /* width: 95%; */
+    align-items: center;
+    margin-left: 1%;
+    margin-right: 1%;
+    
+}
+
+.loss{
+    color: #ce4e4b;
+}

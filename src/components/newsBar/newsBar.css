@@ -1,0 +1,14 @@
+.newsBar{
+    display: flex;
+    justify-content: space-around;
+}
+.time{
+    color: #6ccacb;
+    font-size: 30px;
+    font-weight: 700;
+}
+.fullTime{
+    color: white;
+    font-size: 25px;
+    font-weight: 400;
+}

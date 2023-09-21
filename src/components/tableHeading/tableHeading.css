@@ -1,0 +1,9 @@
+.tableHeading{
+    display: flex;
+    justify-content: space-between;
+    color: #777980;
+    font-size: 25px;
+    font-weight: 700;
+    margin-left: 2%;
+    margin-right: 2%;
+}
